@@ -1,11 +1,27 @@
-numero_complejo = 4 + 2j
-num = complex(4,2)
+#Numero entero
+edad = 18
+#Numero Flotante (Real)
+estatura = 1.74
 
-print(f"{num} {numero_complejo}")
+#numeros complejos
+num_complejo = 4 + 2j        #primera forma de crear un numero complejo
+otro_complejo = complex(4.2) #segunda forma de crear un numero complejo
 
-#limitar
-pi = 3.1416
-print(f"el valor de pi es de {pi:.2f} ")
+print(num_complejo)
+print(otro_complejo)
 
-#redondeo
-print(f"50.99 y {round(50.99)}")
+base = 8
+altura = 12.5
+
+area = (base * altura) / 2
+print(f"El area del triangulo es de {area} cm")
+
+#Salida de numeros en PI
+PI = 3.141592653589793
+print(f"El numero PI tiene un valor de {PI: .2f}")
+
+#cadena de texto
+carrera = "Ingenieria Civil en Informatica"
+institucion = "Universidad de Los Lagos"
+
+print(carrera[0]) #cortando strings
