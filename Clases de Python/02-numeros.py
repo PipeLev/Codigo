@@ -27,7 +27,7 @@ print(f"El numero PI tiene un valor de {PI: .2f}")
 #Formato de salida de Numeros
 
 #Limitar a 4 decimales el valor de Pi
-print(f"El valor de Pi es {Pi:.4f}") 
+print(f"El valor de Pi es {PI:.4f}") 
 
 # El metodo de Redondeo
 print(f"El area del triangulo es {round(area, 2)} cm")
@@ -55,3 +55,5 @@ lista_mixta= ["ola", 3.14159, 42, True]         #Arreglo mixto
 print(colores[0])       #Se imprime el primer elemento de la lista
 print(numeros[-1])      #Se imprime el ultimo elemento de la lista
 print(lista_mixta)
+
+type()#tipo de dato
