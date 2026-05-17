@@ -9,4 +9,4 @@ elif n > 50:
 elif n == 120:
     print (f"{n} es el numero maximo")
 elif n == 0:
-    print (f"no hay nada")
+    print (f"no hay nada, no existe")
