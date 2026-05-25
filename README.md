@@ -10,9 +10,9 @@
 Este repositorio está dedicado principalmente a almacenar el código que utilizo para practicar y los ejercicios de las clases del **Profesor Victor Saldivia**.
 
 ### ¿Qué vas a encontrar aquí?
-* 🐍 **Python:** 
-* 🟨 **JavaScript:** 
-* 🧪 **Testeo de código variado:** 
+* 🐍 **Python** 
+* 🟨 **JavaScript** 
+* 🧪 **Testeo de código variado** 
 
 ---
 
@@ -20,6 +20,6 @@ Este repositorio está dedicado principalmente a almacenar el código que utiliz
 This repository is mainly dedicated to hosting the code I use for practice, as well as exercises and projects from **Professor Victor Saldivia's** classes.
 
 ### What will you find here?
-* 🐍 **Python:** 
-* 🟨 **JavaScript:** 
-* 🧪 **Miscellaneous Code Testing:** 
+* 🐍 **Python** 
+* 🟨 **JavaScript** 
+* 🧪 **Miscellaneous Code Testing** 
