@@ -1,6 +1,24 @@
-#Variables
+#Se añadieron mas opciones para mostrar en pantalla 
+#Se definen las varialbes a usar
 nombre = "Felipe"
 apellido = "Levican"
-edad = 18
+edad = "18"
 
-print("Mi nombre es", nombre, "y mi apellido es", apellido, "y tengo", edad)
+"""
+{} Llaves
+() Parentesis
+[] Corchetes
+"""
+
+#El escribir las variables
+#Forma uno de mostrar el contenido
+print("Mi nombre y apellido es",nombre, apellido,"y mi edad es", edad)
+
+#Forma dos para mostrar contenido
+print(f"Mi nombre es {nombre} y mi apellido es {apellido} y mi edad es {edad}")
+
+#Froma tres para mostrar contenido
+print("Mi nombre es " + nombre + " y  mi apellido es "+ apellido + " y tengo "+ str(edad) + " edad")
+
+carrera = str(input("¿Que carrera de estudios cursas?"))
+print(f"Yo estudio {carrera}")
