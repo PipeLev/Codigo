@@ -4,7 +4,7 @@
 
 ## Sobre este Repositorio
 
-Este repocitorio principalmente es para subir mi codigo que voy practicando y de las clases del Profesor Victor Saldivia.
+Este repositorio principalmente es para subir mi codigo que voy practicando y de las clases del Profesor Victor Saldivia.
 
 ## Que vas a encontrar
 
