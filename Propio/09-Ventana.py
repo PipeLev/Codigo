@@ -1,4 +1,3 @@
-# Importamos todo de tkinter
 from tkinter import *
 import tkinter.messagebox
 
@@ -16,5 +15,5 @@ def hola():
 boton = Button(root, text="Haz clic aquí", command=hola)
 boton.pack(pady=50)
 
-# Este paso es vital para que la ventana no se cierre de golpe
+
 root.mainloop()
