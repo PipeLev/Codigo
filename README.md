@@ -7,7 +7,7 @@
 ---
 
 ## 🇪🇸 Sobre este Repositorio
-Este repositorio está dedicado principalmente a almacenar el código que utilizo para practicar de forma idepediente y los codigos de las clases del **Profesor Victor Saldivia**.
+Este repositorio está dedicado principalmente a almacenar el código que utilizo para practicar de forma idepediente y los códigos de las clases del **Profesor Victor Saldivia**.
 
 ### ¿Qué vas a encontrar aquí?
 * 🐍 **Python** 
