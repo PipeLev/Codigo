@@ -7,7 +7,7 @@
 ---
 
 ## 🇪🇸 Sobre este Repositorio
-Este repositorio está dedicado principalmente a almacenar el código que utilizo para practicar y los ejercicios de las clases del **Profesor Victor Saldivia**.
+Este repositorio está dedicado principalmente a almacenar el código que utilizo para practicar de forma idepediente y los codigos de las clases del **Profesor Victor Saldivia**.
 
 ### ¿Qué vas a encontrar aquí?
 * 🐍 **Python** 
@@ -17,7 +17,7 @@ Este repositorio está dedicado principalmente a almacenar el código que utiliz
 ---
 
 ## 🇺🇸 About this Repository
-This repository is mainly dedicated to hosting the code I use for practice, as well as exercises and projects from **Professor Victor Saldivia's** classes.
+This repository is mainly dedicated to hosting the code I use for independent practice, as well as code and exercises from **Professor Victor Saldivia's** classes.
 
 ### What will you find here?
 * 🐍 **Python** 
