@@ -10,7 +10,7 @@ mediodia = consumo[1]
 tarde = consumo[2]
 noche = consumo[3]
 
-consumo_total = mañana + mediodia + tarde + noche / 4 
+consumo_total = (mañana + mediodia + tarde + noche) / 4 
 
 print(f"El consumo de la Memoria RAM del servido durante el dia fue de {consumo_total} GB")
 
