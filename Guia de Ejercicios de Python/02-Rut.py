@@ -6,5 +6,4 @@ rut = rut.strip()
 
 rut = rut.replace(".", "")
 
-print(f"La longitud del RUT es de: {len(rut)} Caracteres")
-print(f"El RUT en Limpio es asi: {rut}")
+print(f"La longitud del RUT es de: {len(rut)} Caracteres Y el RUT en limpio seria asi: {rut}")
