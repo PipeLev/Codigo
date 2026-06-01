@@ -1,0 +1,22 @@
+tiempos_respuesta = []
+
+tiempos_respuesta.append(float(input("Ingresa el tiempo de respuesta N°1: ")))
+tiempos_respuesta.append(float(input("Ingresa el tiempo de respuesta N°2: ")))
+tiempos_respuesta.append(float(input("Ingresa el tiempo de respuesta N°3: ")))
+
+vel1 = tiempos_respuesta[0]
+vel2 = tiempos_respuesta[1]
+vel3 = tiempos_respuesta[2]
+
+brecharendimiento = max(tiempos_respuesta) - min(tiempos_respuesta)
+promedio = (vel1 + vel2 + vel3) /3
+
+print("------LISTA DE VELOCIDAD-------")
+print(tiempos_respuesta)
+print("-------------------------------")
+
+print(f"La velocidad maxima de tiempo de respuesta fue de {max(tiempos_respuesta)} ms Y el tiempo minimo fue de {min(tiempos_respuesta)} ms")
+
+print(f"La velocidad promedio fue de {round(promedio, 2)} ms")
+
+print(f"La brecha de rendimiento fue de {round(brecharendimiento, 2)} ms")
