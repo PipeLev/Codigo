@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/1c/c6/b4/1cc6b4bcd655dc7616a87131c608a719.jpg" alt="Logo o Ilustración del Proyecto" width="160" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+  <img src="https://i.pinimg.com/736x/bb/3c/b0/bb3cb0e51888eda84773167ef2de2e9e.jpg" alt="Logo o Ilustración del Proyecto" width="160" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
 </p>
 
 # Mis Prácticas de Código / My Code Practices
