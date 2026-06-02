@@ -1,6 +1,6 @@
 nombre = input("Ingresa tu nombre y apellido para generate el correo institucional: ")
 
-nombre= nombre.lower()
+nombre = nombre.lower()
 
 nombre = nombre.strip()
 
