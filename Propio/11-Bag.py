@@ -35,12 +35,16 @@ print("---------------------------------\n")
 
 seleccion3 = 1
 
+print("\n¿Quieres usar un item?")
+print("1.- SI")
+print("2.- NO")
+
+seleccion4 = int(input("Seleccione una Opcion: "))
+
 while seleccion3 == 1:
-    print("\n¿Quieres usar un item?")
-    print("1.- SI")
-    print("2.- NO")
-    
-    seleccion4 = int(input("Seleccione una Opcion: "))
+    if len(bag) == 0:
+        print("\n te has quedado sin objetos")
+        break
 
     if seleccion4 == 1:
         print("\n¿Qué ítem quieres usar?")
@@ -61,11 +65,10 @@ while seleccion3 == 1:
     print("1.- SI")
     print("2.- NO")
 
-    seleccion3 = int(input("Seleccione la opcion: "))
+    seleccion4 = int(input("Seleccione la opcion: "))
 
-    if seleccion3 == 2:
-     print("\nCierrando el programa...")
-    break
-else:
-    print("\nCierrando el programa...")
-    print("\nGracias por usar el sistema :)")
+    if seleccion4 == 2:
+        print("\nCerrando el programa...")
+        break
+
+print("\nGracias por usar el sistema :)")
