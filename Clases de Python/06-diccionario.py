@@ -49,4 +49,14 @@ jesus["nombre"] = "jesus"
 print("\n ============-PACIENTE 2-============ \n")
 informacion(info, jesus)
 
-jesus.clear() # vacia todo el interior del diccionario "{}"
+jesus.clear() # vacia todo el interior del diccionario "{}"map
+
+#map remplaza un bucle
+
+n = [1, 2, 3, 4, 5,]
+n_str = list(map(str,n))
+print(f"Lista de numeros como string: {",".join(n_str)}")
+
+ramos = ["Programación", "Física", "Cálculo", "Habilidades Comunicativas"]
+long = list(filter(lambda x: len(x) > 7, ramos))
+print(long)
