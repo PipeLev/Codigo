@@ -24,7 +24,7 @@ print(a <= b) # menor o igual que
 
 bencina = False
 encendido = True
-#Edad = 19
+edad = 19
 
 #Usando el op AND
 if bencina and encendido:
@@ -37,3 +37,12 @@ if bencina or encendido:
     print("El vehiculo puede arrancar")
 else:
     print("El vehiculo no puede arrancar")
+
+
+if not bencina and encendido:
+    print("El vehiculo puede arrancar")
+else:
+    print("El vehiculo no puede arrancar")
+
+if (not bencina or encendido) or (encendido and edad >= 8):
+    print("El vehiculo puede arrancar")
