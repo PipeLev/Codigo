@@ -13,9 +13,6 @@ while num <= 100:
     num = num + 2
 print("1°bucle")
 
-
-
-
 while num <= 200:
     print(num)
     num = num + 2
